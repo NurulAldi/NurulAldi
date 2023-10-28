@@ -1,7 +1,7 @@
 ![MasterHead](https://technocometsolutions.com/wp-content/uploads/2020/02/about-us-gif.gif)
 <h1 align="center">Hi 👋, I'm Nurul Aldi</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">
 
 - 🔭 I’m currently working on **Informatika UNP**
 
