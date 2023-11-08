@@ -1,13 +1,13 @@
 ![MasterHead](https://technocometsolutions.com/wp-content/uploads/2020/02/about-us-gif.gif)
 <h1 align="center">Hi 👋, I'm Nurul Aldi</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate AI Engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Informatika UNP**
 
-- 🌱 I’m currently learning **About Backend**
+- 🌱 I’m currently learning **About AI**
 
 - 💬 Ask me about **nothing**
 
