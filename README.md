@@ -1,4 +1,4 @@
-![MasterHead](https://blog.zoho.com/wp-content/uploads/2019/10/new-gear-1-Converted.gif)
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Nurul Aldi</h1>
 <h3 align="center">A passionate AI Engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">
