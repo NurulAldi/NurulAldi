@@ -1,13 +1,13 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Nurul Aldi</h1>
-<h3 align="center">A passionate Cyber Security from Indonesia</h3>
+<h3 align="center">A passionate Data Scientist from Indonesia</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Informatika UNP**
 
-- 🌱 I’m currently learning **About Cyber Security**
+- 🌱 I’m currently learning **About Data Scientist**
 
 - 💬 Ask me about **nothing**
 
