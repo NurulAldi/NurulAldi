@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Informatika UNP**
 
-- 🌱 I’m currently learning **About Data Scientist**
+- 🌱 I’m currently learning **About Data Science**
 
 - 💬 Ask me about **nothing**
 
