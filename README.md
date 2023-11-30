@@ -1,4 +1,6 @@
-![github-header-image (4)](https://github.com/NurulAldi/NurulAldi/assets/149251399/f1bd41e7-2940-496d-85c4-f32e17bb4bb8)
+![github-header-image (6)](https://github.com/NurulAldi/NurulAldi/assets/149251399/50cc70b5-fe6e-417a-9673-deea0e61281c)
+
+
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
