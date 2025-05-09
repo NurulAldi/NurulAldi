@@ -12,7 +12,7 @@
 <br>
 
 - :school: I am a `Junior` at Faculty of Engineering on UNP
-- :student: I’m currently learning `Computer Science`.
+- :student: I’m currently studying `Computer Science`.
 - :nerd_face: So hard to stop learning.
 - :thinking: i'm trying to figured out how to center a div
 <br>
